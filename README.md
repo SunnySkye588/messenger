@@ -7,9 +7,9 @@
     <script>
         // 所有 Messenger 链接 
         const links = [
-            "https://m.me/username1",
-            "https://m.me/username2", 
-            "https://m.me/username3",
+            "https://m.me/61575012941767",
+            "https://m.me/100092393395340", 
+            "https://m.me/100092393395340",
         ];
         
         const LOCAL_KEY = "messengerAssignedIndex";
