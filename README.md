@@ -5,8 +5,7 @@
     <title>跳转中...</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script>
-        // 所有 Messenger 链接 
-        const links = [
+        // 所有 Messenger 链接 const links = [
             "https://m.me/61575012941767",
             "https://m.me/100092393395340", 
             "https://m.me/100092393395340",
